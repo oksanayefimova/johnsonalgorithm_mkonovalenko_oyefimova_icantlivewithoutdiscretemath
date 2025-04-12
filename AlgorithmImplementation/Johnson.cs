@@ -9,8 +9,7 @@ public static class Johnson
 
         int[] h = BellmanFord(g, n);
         if (h == null) return null;
-
-        // Перерахунок ваг
+        
         var newGraph = new Graph(n, true);
         for (int u = 0; u < n; u++)
             foreach (var (v, w) in g.AdjacencyList[u])
