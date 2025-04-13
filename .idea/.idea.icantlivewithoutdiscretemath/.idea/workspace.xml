@@ -29,15 +29,16 @@
     &quot;assignee&quot;: &quot;oksanayefimova&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/oksanayefimova/johnsonalgorithm_mkonovalenko_oyefimova_icantlivewithoutdiscretemath.git&quot;,
-    &quot;accountId&quot;: &quot;ae42ec35-d14a-43ac-8725-b777e8789d9c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/oksanayefimova/johnsonalgorithm_mkonovalenko_oyefimova_icantlivewithoutdiscretemath.git",
+    "accountId": "7f87f6fc-bba6-4b02-8089-090c55f13308"
   }
 }</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
   </component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,6 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Project.AlgorithmImplementation.executor": "Run",
@@ -90,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744460458115</updated>
       <workItem from="1744460459338" duration="290000" />
+      <workItem from="1744474375343" duration="384000" />
       <workItem from="1744460755838" duration="3050000" />
     </task>
     <servers />
