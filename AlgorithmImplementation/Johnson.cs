@@ -55,9 +55,11 @@ public static class Johnson
     {
         int[] dist = new int[g.vertices];
         bool[] visited = new bool[g.vertices];
+        
         for (int i = 0; i < g.vertices; i++) dist[i] = int.MaxValue / 2;
         dist[src] = 0;
         var pq = new SortedSet<(int dist, int v)>();
+        
         pq.Add((0, src));
 
         while (pq.Count > 0)

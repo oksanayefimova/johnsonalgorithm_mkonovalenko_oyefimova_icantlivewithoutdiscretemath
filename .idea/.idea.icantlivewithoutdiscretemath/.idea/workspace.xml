@@ -9,6 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="af55726a-a247-4620-ae65-9a8364b9c62e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.icantlivewithoutdiscretemath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.icantlivewithoutdiscretemath/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmImplementation/Graph.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmImplementation/Graph.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmImplementation/Johnson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmImplementation/Johnson.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +31,19 @@
     &quot;assignee&quot;: &quot;oksanayefimova&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/oksanayefimova/johnsonalgorithm_mkonovalenko_oyefimova_icantlivewithoutdiscretemath.git",
-    "accountId": "7f87f6fc-bba6-4b02-8089-090c55f13308"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/oksanayefimova/johnsonalgorithm_mkonovalenko_oyefimova_icantlivewithoutdiscretemath.git&quot;,
+    &quot;accountId&quot;: &quot;7f87f6fc-bba6-4b02-8089-090c55f13308&quot;
   }
+}&lt;/component&gt;
+  &lt;component name=&quot;ProblemsViewState&quot;&gt;
+    &lt;option name=&quot;selectedTabId&quot; value=&quot;Toolset&quot; /&gt;
+  &lt;/component&gt;
 }</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58a0b66583fe4914851db06f53833c3b38da8/49/129c1618/Launcher.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -50,18 +55,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.AlgorithmImplementation.executor": "Run",
+    ".NET Project.AlgorithmImplementation.executor": "Debug",
+    ".NET Static Method.icantlivewithoutdiscretemath.Experiment.Run.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -73,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Static Method.icantlivewithoutdiscretemath.Experiment.Run">
     <configuration name="AlgorithmImplementation" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/AlgorithmImplementation/bin/Debug/net9.0/AlgorithmImplementation" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -92,6 +87,31 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="icantlivewithoutdiscretemath.Experiment.Run" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AlgorithmImplementation/bin/Debug/net9.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AlgorithmImplementation/AlgorithmImplementation.csproj" />
+      <option name="PROJECT_TFM" value="net9.0" />
+      <option name="CLASS_NAME" value="icantlivewithoutdiscretemath.Experiment" />
+      <option name="METHOD_NAME" value="Run" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.AlgorithmImplementation" />
+      <item itemvalue=".NET Static Method.icantlivewithoutdiscretemath.Experiment.Run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.icantlivewithoutdiscretemath.Experiment.Run" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,8 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744460458115</updated>
       <workItem from="1744460459338" duration="290000" />
-      <workItem from="1744474375343" duration="384000" />
-      <workItem from="1744460755838" duration="3050000" />
+      <workItem from="1744460755838" duration="12186000" />
     </task>
     <servers />
   </component>
@@ -113,5 +132,24 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AlgorithmImplementation/Johnson.cs</url>
+          <line>72</line>
+          <properties documentPath="$PROJECT_DIR$/AlgorithmImplementation/Johnson.cs" containingFunctionPresentation="Method 'Dijkstra'">
+            <startOffsets>
+              <option value="2137" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2163" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

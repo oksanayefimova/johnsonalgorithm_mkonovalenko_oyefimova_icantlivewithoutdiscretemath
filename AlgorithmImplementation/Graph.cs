@@ -41,7 +41,7 @@ public class Graph
             adjacencyMatrix[u, v] = weight;
     }
 
-    public void ConvertToMatrix()
+    public int[,] ConvertToMatrix()
     {
         adjacencyMatrix = new int[vertices, vertices];
         for (int i = 0; i < vertices; i++)
@@ -56,11 +56,18 @@ public class Graph
                 adjacencyMatrix[u, v] = w;
             }
         }
+
+        return adjacencyMatrix;
     }
 
     public void ConvertToList()
     {
         AdjacencyList = new List<(int, int)>[vertices];
+        if (adjacencyMatrix == null)
+        {
+            adjacencyMatrix = new int[vertices, vertices];
+        }
+        
         for (int i = 0; i < vertices; i++)
         {
             AdjacencyList[i] = new List<(int, int)>();
